@@ -1,2 +1,2 @@
 # Eurostat
-Python program to check the euromillion results
+Python and C program to check the euromillion results
